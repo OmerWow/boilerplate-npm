@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Omer Elbaz",
+	"description": "sup",
 	"version": "8",
 	"dependencies": {
 		"express": "^4.14.0"
